@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[link](https://github.com/alotuscoder/markdown-portfolio/projects) to the projects in this repository
